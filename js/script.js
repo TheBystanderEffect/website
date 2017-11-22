@@ -144,6 +144,8 @@ $(document).ready(function(){
       items: 4
   });
 
+  $("#polasek").css("width","138").css("height","220");
+
 
 });
 
