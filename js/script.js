@@ -144,7 +144,7 @@ $(document).ready(function(){
       items: 4
   });
 
-  $("#polasek").css("width","138").css("height","220");
+  $("div #polasek.img-rounded").css("width","138").css("height","220").css("margin-left","111");
 
 
 });
