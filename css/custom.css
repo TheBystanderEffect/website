@@ -1003,3 +1003,7 @@ th{
     }
  
 }
+
+.hide {
+    visibility: hidden;
+}
