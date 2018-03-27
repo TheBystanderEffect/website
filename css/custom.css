@@ -1008,3 +1008,11 @@ th{
     visibility: hidden;
 }
 
+.table-success {
+    color: green;
+}
+
+.table-wrong {
+    color: red;
+}
+
