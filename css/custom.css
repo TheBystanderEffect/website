@@ -1016,3 +1016,7 @@ th{
     color: red;
 }
 
+.table-pending {
+    color: orange;
+}
+
