@@ -1,0 +1,9 @@
+boèné menu - defaultne by malo by otvorené
+po vymazani poslednej layer -> nevie sa dostat nazad
+enter pre potvrdenie rename
+premenuj tla4idlo rename na edit, modify
+obmedzenie poctu charov na nazve
+next layer
+label zavadzaju 
+return state
+viacere vymazat naraz 
